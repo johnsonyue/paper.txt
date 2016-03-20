@@ -1,0 +1,192 @@
+abide  |  遵守，容忍，停留 | 0111
+adage  |  格言，谚语 | 0108
+address some of the most pressing problems  |  解决 | 0003
+adequate  |  足够的 | 0009
+adjudicate  |  判决 | 0151
+affront  |  冒犯，侮辱 | 0130
+agnostic  |  不可知的 | 0008
+albeit  |  尽管 | 0127
+allusion  |  引用 | 0086
+altruistic  |  无私的，利他主义 | 0039
+amortize  |  分期偿还 | 0062
+amount to  |  折合，意味着 | 0081
+analogous  |  相似的 | 0048
+analogy  |  类比 | 0085
+annotate  |  注释 | 0029
+arguably  |  按理说，应该说 | 0189
+articulate  |  表达 | 0180
+ascribe  |  把..归功于 | 0112
+auxiliary  |  辅助的,补充的，附加的 | 0173
+be akin to  |  类比于 | 0089
+be essential to  |  对...至关重要的 | 0191
+be weary of  |  厌倦 | 0149
+bilateral  |  双边的 | 0171
+clairvoyance  |  洞察力 | 0099
+clamor  |  争吵，喧闹 clamor for 鼓噪 | 0119
+coincide with  |  和...一致 | 0169
+collude  |  密谋 | 0083
+commerce  |  商业 | 0156
+commodity  |  商品，有价值物品 | 0095
+compact  |  使紧凑，简化 | 0158
+compensate  |  弥补，抵消 | 0019
+compensation  |  违约金，赔偿 | 0020
+conceive  |  构思，设想 | 0107
+confer  |  confer .. to .. 颁发..给.. | 0105
+confine to  |  局限于 | 0121
+conjecture  |  推测 | 0181
+consecutive  |  连续的 | 0040
+consensus  |  一致 | 0013
+consolidate  |  合并，巩固 | 0168
+contend  |  斗争 contend for 争夺 | 0161
+contentious  |  有争议的 | 0055
+conversely  |  相反 == on the contrary == oppositely | 0135
+counterfeit  |  伪造的 | 0102
+crude  |  简陋的 | 0166
+de-facto  |  事实上的 == actual | 0026
+decidedly  |  毫无疑问的，果断的 | 0077
+decimate  |  大批杀害，十中抽一 | 0079
+decommission  |  退役 | 0025
+defect  |  n.缺点 v.背叛 | 0093
+demystify  |  阐述 | 0011
+depart from  |  背离，违背 == deviate from  | 0051
+depict  |  描绘，画出 | 0042
+deposit  |  存款，保证金 | 0124
+desiderata  |  迫切需要物 | 0179
+detract from  |  减损 | 0061
+detriment  |  to the detriment 对..有损害 | 0075
+deviate from  |  违背 | 0052
+devise  |  设计，发明 | 0035
+disburse  |  支出 | 0114
+disertation  |  论文 | 0004
+disparate  |  完全不同的 | 0094
+dispute  |  纠纷，争论 | 0157
+disrepair  |  破损的，失修的 | 0178
+dividend  |  红利 | 0115
+elapse  |  (时间)消逝 | 0125
+empirical  |  经验主义的 | 0123
+encompass  |  围绕，包含 | 0109
+encumber  |  妨碍，拖累 | 0172
+endorse  |  批准，证明 | 0016
+essential  |  必要的，本质的 | 0190
+etymology  |  词源学 | 0177
+eviction  |  逐出，驱逐 | 0182
+extensive  |  广阔的，外延的 | 0001
+extent  |  程度 | 0060
+fall short of  |  缺乏 | 0070
+faucet  |  水龙头 == tap | 0170
+flourishing  |  繁荣的，茂盛的 | 0140
+fluctuation  | 　波动性 | 0153
+forfeit  |  丧失 | 0113
+fraction  |  片段，小部分 | 0134
+from the scratch  |  白手起家 | 0073
+fully fledged  |  完全成熟的 | 0067
+fungible  |  可代替的 | 0066
+funky  |  时髦的 | 0100
+granularity  |  粒度 | 0033
+hamper  |  妨碍,约束 == constraint | 0022
+havoc  |  浩劫，大混乱 | 0129
+hereof  |  of this ，在本文中 | 0165
+heterogeneous  |  混杂的 | 0021
+hinder  | 　阻碍 | 0154
+hinges on  |  取决于 | 0037
+impediment  |  妨碍，阻碍 | 0175
+impose  |  强加 | 0036
+incentive  |  动机 | 0012
+inclusive  |  包含广泛的 | 0187
+incur  |  承担 | 0056
+infeasible  |  不可行的 | 0053
+inflation  |  通货膨胀，膨胀 | 0143
+inherent  |  固有的 | 0006
+inherit  |  继承 | 0103
+insight  |  深刻见解 | 0137
+instrinsic  |  固有的，天生的 | 0063
+intermediate  |  adj. 中间的， v.调解 | 0184
+interplay  |  相互作用 | 0058
+intrinsic  |  本征的，固有的，本质的 | 0188
+is subject to  |  受...支配 | 0059
+issuance  |  发行 | 0142
+issue  |  n.问题 v.发行，造成 | 0104
+kluge  |  异机种系统 | 0005
+liquidity  |  流动性，流动资金 | 0152
+mandate  |  授权，批准 | 0145
+meager  |  贫乏的 | 0174
+mediate  |  调解 | 0185
+metaphor  |  比喻 | 0084
+metapohor，analogy，allusion  |  英语修辞手法，rhetoric | 0087
+mileage  | 　里程数 | 0076
+miscellanea  |  杂项 | 0064
+mitigate  |  缓和,减轻 | 0007
+moderate  |  温和的，有节制的 | 0050
+modicum  |  少量，一点 | 0133
+monetary  |  金钱的，财政的 | 0080
+monopolize  |  垄断的 | 0049
+notwithstanding , nevertheless , however  |  然而 | 0027
+novelty  |  新颖的事物，花样 | 0101
+obscure  |  不著名的，不清楚的，模糊的 | 0148
+obsolete  |  废弃的 | 0045
+orders of magnitude  |  数量级 | 0092
+patent  |  专利 | 0118
+pedagogical  |  教学的 | 0155
+permeate  |  渗入，贯穿 | 0057
+piecemeal  |  逐个的 | 0071
+plummet  |  暴跌 | 0147
+preamble  |  前言，前文 | 0192
+predate  |  居先 | 0144
+predecessor  |  前任，前辈，前身 | 0116
+preliminary  |  初级的 | 0002
+presumably  |  可能 == probably | 0023
+primitive  |  原始的，原语 | 0015
+prior  |  优先的，在前的 | 0117
+prohibitive  |  禁止的，抑制的 | 0141
+prominent |  著名的，杰出的 | 0106
+prone  |  易于，倾向于，俯卧的 | 0034
+provision  |  规定，供应 well-provisioned 供应好的，配置好的 | 0038
+proximity  |  接近度 | 0110
+prudent  |  谨慎的，精明的，世故的 | 0162
+prune  |  修剪 | 0131
+pseudonimity  |  假名 | 0018
+pull off  |  胜利完成，靠边停车 | 0146
+purportedly  |  据称 | 0098
+quirk  |  奇事，怪癖 | 0167
+rationale  |  理论基础 | 0163
+recipient  |  接收者 | 0010
+recoup  |  偿还，补偿 | 0136
+relay  |  n.中继，继电器 v.传播 | 0132
+renege  |  违约，食言 | 0122
+revenue  |  收入 | 0090
+rhetoric  |  修辞手法 | 0088
+rigorous  |  严格的 | 0097
+rivalrous  |  竞争性的 | 0082
+salience  |  凸显度，特点 | 0054
+scant  |  不充分的，不足的 | 0069
+scratch  |  刮表面,破烂 | 0072
+scruple  |  顾虑 | 0176
+scrutiny  |  监督 | 0046
+shoehorn  |  鞋拔子，硬塞 | 0120
+simultaneously  |  同时地， == at the same time | 0065
+solicit  |  征求，恳求 | 0183
+spectrum  |  光谱 | 0017
+speculator  |  投机商，投机者 | 0150
+stakeholder  |  股东 | 0096
+stale  |  陈腐的 | 0044
+substance  |  物质，材料 | 0159
+substantial  |  大量的，重大的，牢固的 | 0160
+susceptible  |  敏感的，易受影响的 | 0014
+tackle  |  着手处理 | 0031
+taxonomy  |  分类学 | 0032
+terminology  |  术语 | 0041
+thereof  |  of the thing mentioned ，关于那 | 0164
+thrive  |  茁壮成长 | 0126
+throughput  |  吞吐量，生产量 | 0186
+traction  |  牵引力 | 0068
+trade-off  |  权衡 | 0078
+twofold　 |  双重的，有两部分的 | 0030
+unilateral  |  单边的，单方的 | 0047
+unravel  |  阐明 | 0043
+up to scratch  |  合乎标准 | 0074
+upshot  |  结果，要点 | 0128
+vandalism  |  故意破坏 | 0091
+viable  |  可行的 | 0024
+volatile  |  易变的，不稳定的 | 0138
+volatility  |  挥发性，不稳定性 | 0139
+withstand  |  经得起 | 0028

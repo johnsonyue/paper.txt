@@ -1,0 +1,32 @@
+
+
+
+9:00-10:00A
+Introduction and Sample Application
+
+10:00-10:45A
+Multiparty Synchronization 1
+
+10:45-11:00A
+Break
+
+11:00-12:00P
+Multiparty Synchronization 2
+
+12:30P 
+Lunch
+
+1:30-2:30P
+Schematized Trust 1
+
+2:30-3:15P
+Schematized Trust 2 
+
+3:15-3:30P
+Break
+
+3:30-5:00P
+Name-based access control. 
+
+5:00-5:15P
+Concluding discussion   
