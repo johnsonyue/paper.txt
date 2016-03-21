@@ -401,3 +401,13 @@ augment | 加强
 amorpohous | 模糊的，不规则的
 
 transitive | 传递的，及物的
+
+ingress | 进入
+
+egress | 退出
+
+fidelity | 保真度
+
+contiguous | 相邻的，共同的
+
+contagious | 有传染性的
