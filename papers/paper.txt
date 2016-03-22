@@ -411,3 +411,23 @@ fidelity | 保真度
 contiguous | 相邻的，共同的
 
 contagious | 有传染性的
+
+complementary | 互补的，补充的
+
+synergy | 协同，配合
+
+denominator | 共性，标准
+
+overlook | 忽略，远眺
+
+disjoint | adj. 不相交的, v. (使)脱节
+
+subsequently | 随后
+
+gauge | (用仪器)测量
+
+tentative | 试探性的
+
+supplementary | 补充的，追加的
+
+intersection | 交集，交点
