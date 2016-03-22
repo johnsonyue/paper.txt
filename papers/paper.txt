@@ -431,3 +431,9 @@ tentative | 试探性的
 supplementary | 补充的，追加的
 
 intersection | 交集，交点
+
+considerable | 相当大的，应注意的
+
+monotonic | 单调的，无变化的
+
+scarce | 稀缺的
