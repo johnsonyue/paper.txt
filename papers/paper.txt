@@ -406,8 +406,6 @@ ingress | 进入
 
 egress | 退出
 
-fidelity | 保真度
-
 contiguous | 相邻的，共同的
 
 contagious | 有传染性的
@@ -437,3 +435,19 @@ considerable | 相当大的，应注意的
 monotonic | 单调的，无变化的
 
 scarce | 稀缺的
+
+plausible | 貌似合理的
+
+periphery | 边缘，外围
+
+fidelity | 保真度，逼真度
+
+perceive | 感知，觉察
+
+instantaneous | 即时的，瞬时的
+
+outset | 开始
+
+alleviate | 缓解，减缓
+
+converge | 引出，诱导
