@@ -1,0 +1,30 @@
+别名解析：
+ip分片id计数器，三篇
+[14] N. Spring, R. Mahajan, and D. Wetherall,
+\Measuring ISP topologies with Rocketfuel," ACM
+SIGCOMM Computer Communication Review,
+vol. 32, no. 4, pp. 133{145, 2002.
+[57] W. Chen, Y. Huang, B. F. Ribeiro, K. Suh,
+H. Zhang, E. d. S. e Silva, J. Kurose, and D. Towsley,
+\Exploiting the IPID eld to infer network path and
+end-system characteristics," in Passive and Active
+Network Measurement. Springer, 2005, pp. 108{120.
+
+[58] A. Bender, R. Sherwood, and N. Spring, \Fixing
+ally's growing pains with velocity modeling," in
+Proceedings of the 8th ACM SIGCOMM conference
+on Internet measurement. ACM, 2008, pp. 337{342.
+
+
+基于图的启发式方法，一篇：
+[54] N. Spring, M. Dontcheva, M. Rodrig, and
+D. Wetherall, \How to resolve IP aliases," Univ.
+Michigan, UW CSE Tech. Rep, pp. 04{05, 2004.
+
+分析方法进行别名解析，一篇：
+[59] M. H. Gunes and K. Sarac, \Analytical IP alias
+resolution," in Communications, 2006. ICC'06. IEEE
+International Conference on, vol. 1. IEEE, 2006,
+pp. 459{464.
+一共选了5篇，精看4篇，
+和文档里的都不重

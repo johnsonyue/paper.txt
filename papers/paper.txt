@@ -184,8 +184,6 @@ orders of magnitude | 数量级
 
 defect | n.缺点 v.背叛
 
-disparate | 完全不同的
-
 commodity | 商品，有价值物品
 
 stakeholder | 股东
@@ -451,3 +449,15 @@ outset | 开始
 alleviate | 缓解，减缓
 
 converge | 引出，诱导
+
+prevalence | 流行程度
+
+vibrant | 有活力的 v. vibrate
+
+camouflage | 伪装
+
+substrate | 基底，底层
+
+crucial | 关键的，重要的
+
+vincinity | 邻近地区
